@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961024740338",
+    "project_id": "connect2-bfd3c",
+    "storage_bucket": "connect2-bfd3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961024740338:android:0c1e78e36c31bbbdaeb96b",
+        "android_client_info": {
+          "package_name": "com.example.social_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRWOhgFFh9rOhrrorE6V_FHeFVDTq7Yw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
