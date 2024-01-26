@@ -20,17 +20,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        theme: ThemeData.dark().copyWith(
-            navigationBarTheme: NavigationBarThemeData(
-          backgroundColor: Colors.black,
-          indicatorColor: Colors.blue[300],
-          //labelBehavior: NavigationDestinationLabelBehavior.alwaysHide,
-          labelTextStyle: MaterialStateProperty.resolveWith(
-              (states) => states.contains(MaterialState.selected)
-                  ? TextStyle(
-                      color: Colors.blue[300],
-                    )
-                  : TextStyle()),
+        theme: 
         )),
         debugShowCheckedModeBanner: false,
         home: AuthGate());
