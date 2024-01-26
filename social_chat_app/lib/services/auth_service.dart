@@ -1,6 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import '../prensentation/widgets/body_view.dart';
 import 'firestore_service.dart';
 
 class AuthService {
